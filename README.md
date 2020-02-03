@@ -51,7 +51,7 @@ and notifying them for unusual driving behavior.
 ## Interface Preview 
 
 <p align="center">
-  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Animation.gif" width="300"/>
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Animation.gif" width="250"/>
   </p>
   Driver Module
   <p align="center">
@@ -62,8 +62,6 @@ and notifying them for unusual driving behavior.
   <p align="center">
   <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page3.PNG" width="450"/>
   </p>
-
-
 ## Tools and Technologies ##
 - Android Studio 3.3+
 - AES Encryption
