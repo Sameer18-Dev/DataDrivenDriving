@@ -61,12 +61,13 @@ and notifying them for unusual driving behavior.
   Owner Module
   <p align="center">
   <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page3.PNG" width="250"/>
-</p>
-
-
+  </p>
 
 ## App Demo
 
+  <p align="center">
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/SirAsifCar-Trip01.mp4" width="450"/>
+  </p>
 
 ## Tools and Technologies ##
 - Android Studio 3.3+
