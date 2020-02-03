@@ -67,8 +67,8 @@ and notifying them for unusual driving behavior.
 
   <p align="center">  
   <video width="320" height="240" controls>
-  <source src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/SirAsifCar-Trip01.mp4" type="video/mp4">
-  <source src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/SirAsifCar-Trip01.ogg" type="video/ogg">
+  <source src="DataDrivenDriving/blob/master/Assets/SirAsifCar-Trip01.mp4" type="video/mp4">
+  <source src="DataDrivenDriving/blob/master/Assets/SirAsifCar-Trip01.ogg" type="video/ogg">
   Your browser does not support the video tag.
   </video>
   </p>
