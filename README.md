@@ -55,18 +55,21 @@ and notifying them for unusual driving behavior.
   </p>
   Driver Module
   <p align="center">
-  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page1.PNG" width="250"/>
-  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page2.PNG" width="250"/>
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page1.PNG" width="300"/>
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page2.PNG" width="300"/>
   </p>
   Owner Module
   <p align="center">
-  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page3.PNG" width="250"/>
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page3.PNG" width="300"/>
   </p>
 
 ## App Demo
 
-  <p align="center">
-  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/SirAsifCar-Trip01.mp4" width="450"/>
+  <p align="center">  
+  <video width="320" height="240" controls>
+  <source src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/SirAsifCar-Trip01.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
   </p>
 
 ## Tools and Technologies ##
