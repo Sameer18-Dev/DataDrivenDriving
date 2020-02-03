@@ -60,18 +60,9 @@ and notifying them for unusual driving behavior.
   </p>
   Owner Module
   <p align="center">
-  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page3.PNG" width="350"/>
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page3.PNG" width="450"/>
   </p>
 
-## App Demo
-
-  <p align="center">  
-  <video width="320" height="240" controls>
-  <source src="DataDrivenDriving/blob/master/Assets/SirAsifCar-Trip01.mp4" type="video/mp4">
-  <source src="DataDrivenDriving/blob/master/Assets/SirAsifCar-Trip01.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-  </video>
-  </p>
 
 ## Tools and Technologies ##
 - Android Studio 3.3+
