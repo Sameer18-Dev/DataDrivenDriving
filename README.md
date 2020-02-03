@@ -51,20 +51,12 @@ and notifying them for unusual driving behavior.
 ## Interface Preview 
 
 <p align="center">
-  <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.48%20PM.jpeg" width="210"/>
-  <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.48%20PM%20(1).jpeg" width="210"/>
-  <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.47%20PM.jpeg" width="210"/>
-  <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.47%20PM%20(1).jpeg" width="210"/>
-    <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.47%20PM%20(3).jpeg" width="210"/>
-    <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.47%20PM%20(4).jpeg" width="210"/>
-    <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.47%20PM%20(5).jpeg" width="210"/>
-    <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.47%20PM%20(6).jpeg" width="210"/>
-    <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.47%20PM%20(7).jpeg" width="210"/>
-    <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.47%20PM%20(8).jpeg" width="210"/>
-    <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.46%20PM.jpeg" width="210"/>
-    <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.46%20PM%20(1).jpeg" width="210"/>
-    <img src="https://github.com/Sameer18-Dev/Prince-App/blob/master/Preview/WhatsApp%20Image%202019-11-24%20at%206.45.46%20PM%20(2).jpeg" width="210"/>
-
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Animation.gif" width="210"/>
+  Driver Module
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page1.PNG" width="210"/>
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page2.PNG" width="210"/>
+  Owner Module
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page3.PNG" width="210"/>
 </p>
 
 
