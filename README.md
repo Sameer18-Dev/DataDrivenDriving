@@ -60,9 +60,11 @@ and notifying them for unusual driving behavior.
   </p>
   Owner Module
   <p align="center">
-  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page3.PNG" width="450"/>
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page3.PNG" width="400"/>
   </p>
+  
 ## Tools and Technologies ##
+
 - Android Studio 3.3+
 - AES Encryption
 - NodeJS Server
