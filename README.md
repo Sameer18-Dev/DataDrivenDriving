@@ -51,7 +51,9 @@ and notifying them for unusual driving behavior.
 ## Interface Preview 
 
 <p align="center">
-  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Animation.gif" width="210"/>
+  <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Animation.gif" width="500"/>
+  </p>
+  <p align="center">
   Driver Module
   <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page1.PNG" width="210"/>
   <img src="https://github.com/Sameer18-Dev/DataDrivenDriving/blob/master/Assets/Page2.PNG" width="210"/>
